@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87)
 
-<div style="text-align: center">🔭 I’m currently working on TEAMLAB</div>
-<div style="text-align: center">🌱 I’m currently learning `ML/DL`</div>
-<div style="text-align: center">📫 How to reach me: sod7050@gmail.com</div>
-
+- 🔭 I’m currently working on `TEAMLAB`
+- 🌱 I’m currently learning `ML/DL`
+- 📫 How to reach me: sod7050@gmail.com
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
