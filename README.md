@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87)
 
-<p align="center">🔭 I’m currently working on <b style="color:white;background-color:#00468e">TEAMLAB</b> 🔭</p>
+<p align="center">🔭 I’m currently working on <span style="color:white;background-color:#00468e"><b>TEAMLAB</b></span> 🔭</p>
 <p align="center">🌱 I’m currently learning <b>ML/DL</b> 🌱</p>
 <p align="center">📫 How to reach me: sod7050@gmail.com 📫</p>
 
