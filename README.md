@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87)
 
-<p align="center">🔭 I’m currently working on <a href="https://github.com/TeamLab"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><b style="color:white;background-color:#00468e">TEAMLAB</b></a> 🔭</p>
+<p align="center">🔭 I’m currently working on <a href="https://github.com/TeamLab"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><p style="color:white;background-color:#00468e">TEAMLAB</p></a> 🔭</p>
 <p align="center">🌱 I’m currently learning <b>ML/DL</b> 🌱</p>
 <p align="center">📫 How to reach me: sod7050@gmail.com 📫</p>
 
