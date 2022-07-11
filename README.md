@@ -6,14 +6,14 @@
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/yongchoooon/github-readme-stats">
+  <a href="https://github.com/yongchoooon/">
     <img align="center" src="http://github-readme-stats.vercel.app/api?username=yongchoooon&hide_title=true&show_icons=true&layout=compact&theme=gruvbox&hide=prs,contribs" alt="yongchoooon's github stats"/>
   </a>
 </p>
 
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/yongchoooon/github-readme-stats">
+  <a href="https://github.com/yongchoooon/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox&hide=Batchfile" />
   </a>
 </p>
