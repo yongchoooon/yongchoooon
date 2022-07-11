@@ -14,7 +14,7 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/yongchoooon/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox&hide=Batchfile" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox&hide=Batchfile" />
   </a>
 </p>
 <!--
