@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87)
 
 <p align="center">🔭 I’m currently studying at <a href="https://github.com/TeamLab"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a> 🔭</p>
-<p align="center">🌱 I’m currently learning <b>ML/DL</b> 🌱</p>
+<p align="center">🌱 I’m currently learning <b>ML/DL</b> & <b>Web Programming</b> 🌱</p>
 <p align="center">📫 How to reach me: <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-0F4B8D?style=flat&logo=Gmail&logoColor=white"/></a> 📫</p>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
