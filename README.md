@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=50&pause=1000&color=7B44B8&center=true&vCenter=true&width=600&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&center=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
 
 <div style="border-top:2px solid #7346B2;border-bottom:2px solid #7346B2;padding:20px;border-radius:5px;font:Amatic+SC">
   <p align="center">🔭 I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a> 🔭</p>
