@@ -22,8 +22,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox&hide=Batchfile" />
   </a>
 </p> -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yongchoooon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yongchoooon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000&title_color=7346B2&icon_color=F8D866" height="180px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yongchoooon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000&title_color=7346B2&icon_color=F8D866&hide=Jupyter%20Notebook" height="180px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yongchoooon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yongchoooon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000&title_color=7346B2&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yongchoooon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000&title_color=7346B2&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yongchoooon's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=yongchoooon&bg_color=000&color=fff&line=7346B2&point=FFFFFF&hide_border=true" /></a>
 <br>
