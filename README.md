@@ -1,7 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87) -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&center=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
-
+<br>
+<br>
 <div style="border-top:2px solid #7346B2;border-bottom:2px solid #7346B2;padding:20px;border-radius:5px;font:Amatic+SC">
   <p align="center">🔭 I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a> 🔭</p>
   <p align="center">🌱 I’m currently learning <b>ML/DL</b> & <b>Web Programming</b> 🌱</p>
@@ -23,9 +24,10 @@
   </a>
 </p> -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yongchoooon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yongchoooon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000&title_color=7346B2&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yongchoooon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000&title_color=7346B2&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yongchoooon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000&title_color=7346B2&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yongchoooon's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=yongchoooon&bg_color=000&color=fff&line=7346B2&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yongchoooon's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Yongchoooon&bg_color=000&color=fff&line=7346B2&point=FFFFFF&hide_border=true" /></a>
+
 <br>
 <h3 align="center">💡 Tech Stack 💡</h3>
 <p align="center">
@@ -61,6 +63,3 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </p>
-
-
-
