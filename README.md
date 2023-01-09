@@ -5,7 +5,7 @@
 <br>
 <div style="border-top:2px solid #7346B2;border-bottom:2px solid #7346B2;padding:20px;border-radius:5px;font:Amatic+SC">
   <p align="center">🔭 I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a> 🔭</p>
-  <p align="center">🌱 I’m currently learning <b>ML/DL</b> & <b>Web Programming</b> 🌱</p>
+  <p align="center">🌱 I’m currently learning <b>ML/DL</b> 🌱</p>
   <p align="center">📫 How to contact me: <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a> 📫</p>
 </div>
 
