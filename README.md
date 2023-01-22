@@ -15,6 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&left=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
 <br>
 <br>
+<foreignObject width="100%" height="100%">
 <div xmlns="http://www.w3.org/1999/xhtml">
 <style>
   .main-box { border-top: 2px solid #7346B2;
@@ -30,6 +31,7 @@
   <p align="left">📫 How to contact me : <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a></p>
 </div>
 </div>
+</foreignObject>
 
 
 <!-- <h3 align="left">💡 My Most Used Languages 💡</h3>
