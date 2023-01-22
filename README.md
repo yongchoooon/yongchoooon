@@ -17,7 +17,7 @@
   </a>
 </p> -->
 <br>
-<h3 align="left">💡 My Git Stats 💡</h3>
+<h3 align="left">💡 <b>My Git Stats</b></h3>
 <!-- <p align="left">
   <a href="https://github.com/yongchoooon/">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongchoooon&hide_title=true&show_icons=true&include_all_commits=true&theme=gruvbox&hide=Batchfile" />
@@ -31,7 +31,7 @@
 [![Yongchoooon's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yongchoooon&bg_color=2E2E2E&color=7346B2&line=7346B2&point=fff&area=false&hide_border=true)](https://github.com/yongchoooon/github-readme-activity-graph)
 
 <br>
-<h3 align="left">💡 Tech Stack</h3>
+<h3 align="left">💡 <b>Tech Stack</b></h3>
 <p align="left">
   💬 Languages
   <br>
