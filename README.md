@@ -44,9 +44,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <br>
   <br>
-  <div style="margin-bottom:-10px">
   💬 ML/DL
-  </div>
   <br>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -56,17 +54,13 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
   <br>
   <br>
-  <div style="margin-bottom:-10px">
   💬 Frameworks
-  </div>
   <br>
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <br>
   <br>
-  <div style="margin-bottom:-10px">
   😎 <b>yongchoooon</b>
-  </div>
   <br>
   <a href="mailto:sod7050@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
