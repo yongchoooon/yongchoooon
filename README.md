@@ -36,9 +36,7 @@
 <br>
 <h3 align="left">💡 <b>Tech Stack</b></h3>
 <p align="left">
-  <div style="margin-bottom:-10px">
   💬 Languages
-  </div>
   <br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
