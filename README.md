@@ -1,6 +1,13 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&left=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
+<div style="display:flex">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" style="margin-right:10px">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7346B2&left=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon." alt="Typing SVG" /></a>
+
+</div>
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&left=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg) -->
 <br>
 <br>
 <div style="border-top:2px solid #7346B2;border-bottom:2px solid #7346B2;padding:20px;border-radius:5px;font:Amatic+SC">
@@ -33,7 +40,9 @@
 <br>
 <h3 align="left">💡 <b>Tech Stack</b></h3>
 <p align="left">
+  <div style="margin-bottom:-10px">
   💬 Languages
+  </div>
   <br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,7 +50,9 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <br>
   <br>
+  <div style="margin-bottom:-10px">
   💬 ML/DL
+  </div>
   <br>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -51,13 +62,17 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
   <br>
   <br>
+  <div style="margin-bottom:-10px">
   💬 Frameworks
+  </div>
   <br>
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <br>
   <br>
+  <div style="margin-bottom:-10px">
   😎 <b>yongchoooon</b>
+  </div>
   <br>
   <a href="mailto:sod7050@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
