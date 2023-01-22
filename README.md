@@ -15,7 +15,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&left=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
 <br>
 <br>
-<div>
+<div xmlns="http://www.w3.org/1999/xhtml">
 <style>
   .main-box { border-top: 2px solid #7346B2;
                         border-bottom: 2px solid #7346B2; 
