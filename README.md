@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&left=true&vleft=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&center=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
 <br>
 <br>
 <div style="border-top:2px solid #7346B2;border-bottom:2px solid #7346B2;padding:20px;border-radius:5px;font:Amatic+SC">
