@@ -3,7 +3,7 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7346B2&left=true&vCenter=true&width=800&height=100&lines=Hi!+I'm+Yongchoooon." alt="Typing SVG" /></a> -->
 
 <style type='text/css'>
-  [class*="main-box"] { border-top: 2px solid #7346B2;
+  .main-box { border-top: 2px solid #7346B2;
                         border-bottom: 2px solid #7346B2; 
                         padding: 20px;
                         border-radius: 5px;
