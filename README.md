@@ -2,7 +2,7 @@
 
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7346B2&left=true&vCenter=true&width=800&height=100&lines=Hi!+I'm+Yongchoooon." alt="Typing SVG" /></a> -->
 
-<style type='text/css'>
+<style>
   .main-box { border-top: 2px solid #7346B2;
                         border-bottom: 2px solid #7346B2; 
                         padding: 20px;
@@ -16,14 +16,6 @@
 <br>
 <br>
 <div style="border-top:2px solid #7346B2;border-bottom:2px solid #7346B2;padding:20px;border-radius:5px;font:Amatic+SC" class="main-box">
-<style type='text/css'>
-  .main-box { border-top: 2px solid #7346B2;
-                        border-bottom: 2px solid #7346B2; 
-                        padding: 20px;
-                        border-radius: 5px;
-                        font: "Amatic+SC"
-                      }
-</style>
   <p align="left">🔭 I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a></p>
   <p align="left">🌱 I’m currently learning <b>ML/DL</b></p>
   <p align="left">📫 How to contact me : <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a></p>
