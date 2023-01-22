@@ -1,9 +1,9 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87) -->
 
 <div style="display:flex">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" style="margin-right:10px">
+<div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px" style="margin-right:10px"></div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7346B2&left=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon." alt="Typing SVG" /></a>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7346B2&left=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon." alt="Typing SVG" /></a></div>
 
 </div>
 
