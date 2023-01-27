@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YONGCHOOOON&fontSize=90&animation=fadeIn&fontAlignY=38&desc=That's%20Me&descAlignY=58&descAlign=87) -->
 
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7346B2&left=true&vCenter=true&width=800&height=100&lines=Hi!+I'm+Yongchoooon." alt="Typing SVG" /></a> -->
-
+ 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&left=true&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
 <br>
