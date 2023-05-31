@@ -34,7 +34,7 @@
 <br/>
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yongchoooon's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Yongchoooon&bg_color=#2E2E2E&color=fff&title_color=7346B2&line=7346B2&point=FFFFFF&hide_border=true" /></a> -->
 
-[![Yongchoooon's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yongchoooon&bg_color=2E2E2E&color=7346B2&line=7346B2&point=fff&area=false&hide_border=true)](https://github.com/yongchoooon/github-readme-activity-graph)
+[![Yongchoooon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yongchoooon&bg_color=2E2E2E&color=7346B2&line=7346B2&point=fff&area=false&hide_border=true)](https://github.com/yongchoooon/github-readme-activity-graph)
 
 <br>
 <h3 align="left">💡 <b>Tech Stack</b></h3>
