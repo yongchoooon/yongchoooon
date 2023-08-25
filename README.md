@@ -10,9 +10,10 @@
 <br>
 <br>
 <div style="border-top:2px solid #7346B2;border-bottom:2px solid #7346B2;padding:20px;border-radius:5px">
-  <p align="left">🔭 I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a></p>
-  <p align="left">🌱 I’m currently learning <b>ML/DL</b></p>
-  <p align="left">📫 How to contact me : <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a></p>
+  <p align="left">🔭&nbsp I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a></p>
+  <p align="left">🌱&nbsp I’m constantly learning about <b>ML/DL</b>,and I'm particularly interested in <b>Computer Vision</b>.</p>
+  <p align="left">📫&nbsp How to contact me : <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a></p>
+  <p align="left">🔎&nbsp <a href="https://www.notion.so/42f1fcf689d3438595497d4632250b8d"><img src="https://img.shields.io/badge/Portfolio-ffeee2?style=flat&logo=Notion&logoColor=black"/></a>&nbsp <a href="https://www.notion.so/42f1fcf689d3438595497d4632250b8d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a></p>
 </div>
 
 
@@ -62,6 +63,8 @@
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white">
   <br>
   <br>
   💬 <b>OS</b>
@@ -75,8 +78,10 @@
   <br>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=yellow">
+  <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=yellow"> -->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
+
 
   <br>
   <br>
