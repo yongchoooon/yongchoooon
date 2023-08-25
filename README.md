@@ -13,7 +13,7 @@
   <p align="left">🔭&nbsp I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a></p>
   <p align="left">🌱&nbsp I’m constantly learning about <b>ML/DL</b>,and I'm particularly interested in <b>Computer Vision</b>.</p>
   <p align="left">📫&nbsp How to contact me : <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a></p>
-  <p align="left">🔎&nbsp <a href="https://www.notion.so/42f1fcf689d3438595497d4632250b8d"><img src="https://img.shields.io/badge/Portfolio-ffeee2?style=flat&logo=Notion&logoColor=black"/></a>&nbsp <a href="https://www.notion.so/42f1fcf689d3438595497d4632250b8d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a></p>
+  <p align="left">🔎&nbsp <a href="https://www.notion.so/42f1fcf689d3438595497d4632250b8d"><img src="https://img.shields.io/badge/Portfolio-ffeee2?style=flat&logo=Notion&logoColor=black"/></a>&nbsp <a href="https://www.linkedin.com/in/yongdeuk-seo-593b81262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a></p>
 </div>
 
 
