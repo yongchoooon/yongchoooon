@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
 
 
-<br>
-
-## 안녕하세요! 서용득입니다. 🙌🏻
+# 안녕하세요! 서용득입니다. 🙌🏻
 - 🔭 국립부경대학교 산업AI연구실 <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a>에서 석사과정 진행중입니다.
 
 - 🌱 **Computer Vision**과 **Generative AI**에 관심을 가지고 성장해가는 **Junior AI Engineer**입니다.
