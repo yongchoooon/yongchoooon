@@ -8,7 +8,7 @@
 
 - 🦾 연구 경험을 넘어 산업 현장에서 활용 가능한 AI 솔루션을 설계하고, 사람들의 일상에 직접적인 가치를 줄 수 있는 기술을 만드는 것이 목표입니다.
 
-- How to contact me : <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/yongdeuk-seo-593b81262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a> <a href="https://yongchoooon.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-fe6a3c?style=flat&logo=GitHub&logoColor=white"/></a>
+- How to contact me : <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/yongdeuk-seo-593b81262/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a> <a href="https://yongchoooon.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-fe6a3c?style=flat&logoColor=white"/></a>
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yongchoooon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yongchoooon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=2E2E2E&title_color=7346B2&icon_color=F8D866" height="180.5px"/></a>
