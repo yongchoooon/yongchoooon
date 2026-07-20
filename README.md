@@ -1,12 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Amatic+SC&weight=700&size=100&pause=2000&color=7B44B8&vCenter=true&width=1000&height=100&lines=Hi!+I'm+Yongchoooon.)](https://git.io/typing-svg)
 
 
-# 안녕하세요! 서용득입니다. 🙌🏻
+# Hi! I'm Yongdeuk Seo. 🙌🏻
 - 🔭 국립부경대학교 산업AI연구실 <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a>에서 연구하며 석사학위를 취득했습니다.
+- 🔭 I conducted research at Pukyong National University's Industrial AI Lab, <a href="https://github.com/TeamLab" style="color:#7346B2"><img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/><strong>TEAMLAB</strong></a>, and earned my master's degree.
 
 - 🌱 **Computer Vision**과 **Generative AI**에 관심을 가지고 성장해가는 **Junior AI Engineer**입니다.
+- 🌱 I am a **Junior AI Engineer** growing with an interest in **Computer Vision** and **Generative AI**.
 
 - 🦾 연구 경험을 넘어 산업 현장에서 활용 가능한 AI 솔루션을 설계하고, 사람들의 일상에 직접적인 가치를 줄 수 있는 기술을 만드는 것이 목표입니다.
+- 🦾 My goal is to go beyond research experience by designing AI solutions that can be applied in industry and building technology that brings direct value to people's everyday lives.
 
 - How to contact me : <a href="mailto:sod7050@gmail.com"><img src="https://img.shields.io/badge/sod7050@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/yongdeuk-seo-741ba9f72f/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a> <a href="https://yongchoooon.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-fe6a3c?style=flat&logo=GitHub&logoColor=white"/></a>
 
